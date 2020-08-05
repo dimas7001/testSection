@@ -118,6 +118,10 @@
                     line-height: 12px;
                     height: 50px;
                     width: 190px;
+                    transition: none;
+                    &:hover {
+                        background-color: $main-color;
+                    }
                 }
             }
         }
@@ -185,6 +189,10 @@
                     line-height: 12px;
                     height: 45px;
                     width: 190px;
+                    transition: none;
+                    &:hover {
+                        background-color: $main-color;
+                    }
                 }
             }
         }
@@ -253,6 +261,10 @@
                     line-height: 12px;
                     height: 45px;
                     width: 190px;
+                    transition: none;
+                    &:hover {
+                        background-color: $main-color;
+                    }
                 }
             }
         }
@@ -320,6 +332,10 @@
                     line-height: 12px;
                     height: 43px;
                     width: 180px;
+                    transition: none;
+                    &:hover {
+                        background-color: $main-color;
+                    }
                 }
             }
         }
